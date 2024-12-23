@@ -1,0 +1,5 @@
+*.log
+*.tmp
+vendor/
+bin/
+node_modules/
